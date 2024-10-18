@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+  <course id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/course">
+    <title>
+      <langstring lang="en-US">Módulo 1: As Empresas e a Sustentabilidade</langstring>
+    </title>
+    <description>
+      <langstring lang="en-US"></langstring>
+    </description>
+  </course>
+  <objectives>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/95HN3O5FQqTC5EG95M67DsM42NzYv2pP">
+        <title>
+          <langstring lang="en-US">
+            1. Introdução e Contexto Geral 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/Gb4ZpXIDUa9eHhkmTSwGJ0SZ_xlk6ueX">
+        <title>
+          <langstring lang="en-US">
+            Introdução
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/YY2coOo2RHthko-eWY-Nw7X0dxStmUiu">
+        <title>
+          <langstring lang="en-US">
+            A. Conceitos-Chave: ESG e Dupla Materialidade 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/3tP9p-uqMbyrc0Wy0XeEbU857dBCULrV">
+        <title>
+          <langstring lang="en-US">
+            B. Tendências e Enquadramento Estratégico  
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/-MCyEjGonIAfiuBbisAijPtYWoh7EqbF">
+        <title>
+          <langstring lang="en-US">
+            2. Política Económica e Regulamentação ESG  
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/mqVPQxXuvzEdR8b-PrteWo5-GRp8yWKY">
+        <title>
+          <langstring lang="en-US">
+            A. Evolução das Preocupações ESG: Enquadramento Histórico 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/oMUWniZ5s0YHQ179egC6zXVnOxIv2ynl">
+        <title>
+          <langstring lang="en-US">
+            B. Introdução à Legislação Europeia 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/qC96Sm7FpV2S3bPvx-XgD84I5wUnKm5x">
+        <title>
+          <langstring lang="en-US">
+            3. Introdução à Integração ESG nas Empresas  
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/rh-CR7zO2RTTNGZIDuOM8bsjXy-sNj1r">
+        <title>
+          <langstring lang="en-US">
+            A. Integração ESG nas Empresas - Impacto, Riscos e Oportunidades 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/yQ_yFPngSNBb1ZdexH1PZ0B9tNT0aejz">
+        <title>
+          <langstring lang="en-US">
+            B. Elementos-chave do Processo de Integração ESG 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/mt_BoradGfFqeXLNq7tzLAwZf1THG4IN">
+        <title>
+          <langstring lang="en-US">
+            C. Sustentabilidade e a Estratégia de Talento: Pessoas e Empresas 
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+          <objective id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/p4Dhrgsi3i8CPcfT6bZBR3TXMn15uHbn">
+        <title>
+          <langstring lang="en-US">
+            Verificação de conhecimento
+          </langstring>
+        </title>
+        <description>
+          <langstring lang="en-US">
+            
+          </langstring>
+        </description>
+      </objective>
+      </objectives>
+  
+  <au id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/activity" launchMethod="OwnWindow" moveOn="Passed"  >
+    <title>
+      <langstring lang="en">
+        Módulo 1: As Empresas e a Sustentabilidade
+      </langstring>
+    </title>
+    <description>
+      <langstring lang="en">
+        
+      </langstring>
+    </description>
+    <objectives>
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/95HN3O5FQqTC5EG95M67DsM42NzYv2pP" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/Gb4ZpXIDUa9eHhkmTSwGJ0SZ_xlk6ueX" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/YY2coOo2RHthko-eWY-Nw7X0dxStmUiu" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/3tP9p-uqMbyrc0Wy0XeEbU857dBCULrV" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/-MCyEjGonIAfiuBbisAijPtYWoh7EqbF" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/mqVPQxXuvzEdR8b-PrteWo5-GRp8yWKY" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/oMUWniZ5s0YHQ179egC6zXVnOxIv2ynl" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/qC96Sm7FpV2S3bPvx-XgD84I5wUnKm5x" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/rh-CR7zO2RTTNGZIDuOM8bsjXy-sNj1r" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/yQ_yFPngSNBb1ZdexH1PZ0B9tNT0aejz" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/mt_BoradGfFqeXLNq7tzLAwZf1THG4IN" />
+              <objective idref="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/objective/p4Dhrgsi3i8CPcfT6bZBR3TXMn15uHbn" />
+          </objectives>
+    <url>scormdriver/indexAPI.html</url>
+    <launchParameters>eyJjcHYiOiJ4X1liWlpKeSIsInJsZCI6ZmFsc2V9</launchParameters>
+  </au>
+</courseStructure>
